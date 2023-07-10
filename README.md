@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Srujan
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Full-Stack
-- 💞️ I’m looking to collaborate on GitHub
 
 <!---
 thenameisSrujan/thenameisSrujan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
