@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Srujan
-- 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Full-Stack
 
 <!---
